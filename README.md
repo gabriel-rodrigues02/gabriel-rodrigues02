@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 
 ## **Languages ​​and Technologies** 👨🏻‍💻
