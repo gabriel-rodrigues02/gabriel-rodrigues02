@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+## **Languages ​​and Technologies** 👨🏻‍💻
+![PYTHON](https://img.shields.io/badge/Python-038cfc?style=for-the-badge&logo=Python&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-f7ef00?style=for-the-badge&logo=JavaScript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-f05000?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-0378ff?logo=css3&logoColor=white&style=for-the-badge)
+
 <!--
 **gabriel-rodrigues02/gabriel-rodrigues02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
