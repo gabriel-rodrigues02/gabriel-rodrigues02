@@ -5,7 +5,7 @@
 ![PYTHON](https://img.shields.io/badge/Python-038cfc?style=for-the-badge&logo=Python&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-f7ef00?style=for-the-badge&logo=JavaScript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-f05000?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-0378ff?logo=css3&logoColor=white&style=for-the-badge)
 
 
-
+## **Connect with me** 📱
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rodrigues-b256b9221/)
 
 <!--
